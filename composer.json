@@ -1,0 +1,13 @@
+{
+    "name": "biankemi/top",
+    "description": "淘宝 top 零售通 api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "biankemi",
+            "email": "biangang727@gmai.com"
+        }
+    ]
+}
+
