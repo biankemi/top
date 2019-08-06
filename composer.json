@@ -8,6 +8,11 @@
             "name": "biankemi",
             "email": "biangang727@gmai.com"
         }
-    ]
+    ],
+    "autoload": {
+		"psr-4": {
+			"top\\": "/"
+		}
+	}
 }
 
